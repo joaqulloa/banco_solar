@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+  
+  h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    color: black;
+  }
+  .emoji {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+  }
+   .container {
+    margin-top: 50px;
+  }
+  
+  .form-container {
+  margin-bottom: 20px;
+  }
+  
+  .form-container .form-row {
+  align-items: center;
+  }
+  
+  .edit-button {
+  background-color: yellow;
+  }
+  
+  .delete-button {
+  background-color: red;
+  color: white;
+   }
+  
+  .transfer-form {
+   margin-bottom: 20px;
+   }
+  
+  .title {
+   text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+   }
+  
+  table thead tr th {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  }
+  .input-group-text {
+  background-color: transparent;
+  font-size: 1 ;
+  color: black;
+  border: none;
+        }
+      
+  .hide-row{
+    display:none;
+  }      
